@@ -63,3 +63,12 @@ button:focus-visible {
 .navegacion{
   margin-top: 0;
 }
+
+.titulo{
+  margin-bottom: 2rem;
+}
+
+.boton{
+  margin-top: 2rem;
+}
+
